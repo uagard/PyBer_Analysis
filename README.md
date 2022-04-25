@@ -15,5 +15,7 @@ It can be determined that as the populations increase, the number of rides, the 
 Recommendations
 
 Find a way to incentivize opportunities to recruit drivers in suburban areas.
+
 Nominate ways to find attractive incentives to recruit drivers in rural areas.
+
 Use ways to offer ride promotions in order to attract more in the urban cities.
