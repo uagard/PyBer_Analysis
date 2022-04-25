@@ -10,7 +10,7 @@ The Pyber Summary DataFrame illustrates the following information: The total num
 
 Summary
 
-It can be determined that as the populations increase, the number of rides, the number of drivers, and the total fares increase. The average fares per ride, per driver decrease. More people are using the ride-sharing service in cities with higher populations. However, comparing the total drivers and total rides among different city types, it is evident that the demand for rides exceeds the supply in rural and suburban areas. There are riders sitting around waiting for a ride in rural and suburban areas, while there are drivers sitting around waiting for a ride in urban areas.
+It can be determined that as the populations increase, the number of rides, the number of drivers, and the total fares increase. The average fares per ride, per driver decrease. More people are using the ride-sharing service in cities with higher populations. However, comparing the total drivers and total rides among different city types, it is evident that the demand for rides exceeds the supply in rural and suburban areas. The way the data is set up it would indicate that there could be riders sitting around waiting for a ride in rural and suburban areas, while there are drivers sitting around waiting for a customers to pick up in urban areas.
 
 Recommendations
 
