@@ -12,7 +12,7 @@ Summary
 
 It can be determined that as the populations increase, the number of rides, the number of drivers, and the total fares increase. The average fares per ride, per driver decrease. More people are using the ride-sharing service in cities with higher populations. However, comparing the total drivers and total rides among different city types, it is evident that the demand for rides exceeds the supply in rural and suburban areas. There are riders sitting around waiting for a ride in rural and suburban areas, while there are drivers sitting around waiting for a ride in urban areas.
 
-Recommendations:
+Recommendations
 
 Find a way to incentivize opportunities to recruit drivers in suburban areas.
 Nominate ways to find attractive incentives to recruit drivers in rural areas.
